@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<!--<?xml-stylesheet type="text/xsl" href="/xsl?d=singers"?>-->
+
+<CONTENT>
+  <ITEM>
+    <ID>01</ID>
+    <NAME>Tina Turner</NAME>
+    <INDEX>1</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>02</ID>
+    <NAME>Linkin Park</NAME>
+    <INDEX>2</INDEX>
+  </ITEM>
+</CONTENT>

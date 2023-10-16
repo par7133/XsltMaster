@@ -1,0 +1,151 @@
+/**
+ * Copyright 2021, 2024 5 Mode
+ *
+ * This file is part of Xslt-Master.
+ *
+ * Xslt-Master is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * Xslt-Master is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.  
+ * 
+ * You should have received a copy of the GNU General Public License
+ * along with Xslt-Master. If not, see <https://www.gnu.org/licenses/>.
+ *
+ * style.css
+ * 
+ * Xslt-Master CSS stylesheet.
+ *
+ * @author Daniele Bonini <my25mb@aol.com>
+ * @copyrights (c) 2016, 2024 5 Mode
+ */
+
+#footerCont {
+  position: fixed; 
+  top: 2000px; 
+  left:-10px;
+  width: 102%; 
+  border: 1px solid #C2DBF2; 
+  padding: 7px; 
+  background: white; 
+  opacity: 0.3;
+  color:white; 
+  font-family: Arial,Sans,Vardana;
+  font-size: 12px; 
+  text-align: center; 
+  z-index: 99998;
+}
+#footer {
+  position: fixed;
+  float: right;
+  top: 2000px; 
+  left:-10px;
+  width: 100%; 
+  border: 0px solid #C2DBF2; 
+  padding: 7px; 
+  opacity: 1.0;
+  color:black; 
+  font-family: Arial,Sans,Vardana;
+  font-size: 12px; 
+  font-weight: 400;
+  text-align: right; 
+  z-index: 99999;
+}
+#cont-singers {
+  float:left;
+  width: 252px;
+  height: 380px;
+}  
+#content {
+  float:left;
+  width:49%;
+  min-height:1000px;
+  height:100%;
+  min-width:700px;
+  padding-left:2%;
+  margin-left:1%;
+  white-space: normal;
+  background: lightgray;
+}
+#cont-files {
+  float:left;
+  margin-left:80px;
+  width: 252px;
+  height: 280px;
+}  
+#files {
+  width: 250px;
+  height: 250px;
+  border: 2px solid gray;
+  background: transparent;
+}
+#resources {
+  float:left;
+  width:46%;
+  min-height:1000px;
+  height:100%;
+  margin-right:1%;
+  background: lightgoldenrodyellow;
+  border-left: 1px solid darkgray;
+  height: max-content;  
+}
+#singers {
+  width: 250px;
+  height: 350px;
+  border: 2px solid gray;
+  background: white;
+}
+#cont-songs {
+  float:left;
+  margin-left:80px;
+  width: 252px;
+  height: 380px;
+}  
+.list-title {
+  font-weight: 900;
+}
+#songs {
+  width: 250px;
+  height: 350px;
+  border: 2px solid gray;
+  background: white;
+}
+#cont-code {
+  position:relative;
+  margin-top:50px;
+  clear:both;
+  float:left;
+  margin-left:80px;
+  width: 550px;
+  height: 380px;
+}
+#cont-precode {
+  overflow-x: auto;
+  overflow-y: auto;
+}
+#code {
+  width: 480px;
+  height: 350px;
+  border: 2px solid gray;
+  background: white;
+  padding:12px;  
+  white-space: pre-wrap; 
+}
+
+.ve-singer-list {
+  height: 26px;
+  border: 1px solid gray;
+  padding: 6px;
+  padding-top: 8px;
+}
+.ve-song-list {
+  height: 26px;
+  border: 1px solid gray;
+  padding: 6px;
+  padding-top: 8px;
+}
+
