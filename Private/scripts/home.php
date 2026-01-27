@@ -43,7 +43,7 @@
   <meta name="description" content="Welcome to Xslt-Master!"/>
   <meta name="keywords" content="Xslt-Master,xsl,generator,on,premise,solution"/>
   <meta name="robots" content="index,follow"/>
-  <meta name="author" content="5 Mode"/>
+  <meta name="author" content="NuMode"/>
   
   <script src="/js/jquery-3.6.0.min.js" type="text/javascript"></script>
   <script src="/js/common.js" type="text/javascript"></script>  
@@ -57,7 +57,7 @@
 
   <div class="header" style="width:100%; margin-top:18px;margin-bottom:18px;">
     <div style="float:left">
-      &nbsp;<a href="http://xsltmaster.5mode-lab.com" target="_self" style="color:#000000; text-decoration: none;">&nbsp;<b>XsltMaster</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/par7133/XsltMaster" style="color:#000000;"><span style="color:#119fe2">on</span> github</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:code@gaox.io" style="color:#000000;"><span style="color:#119fe2">for</span> feedback</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+39-378-0812391" style="font-size:13px;background-color:#15c60b;border:2px solid #15c60b;color:#000000;height:27px;text-decoration:none;">&nbsp;&nbsp;get support&nbsp;&nbsp;</a>
+      &nbsp;<a href="http://xsltmaster.numode-lab.eu" target="_self" style="color:#000000; text-decoration: none;">&nbsp;<b>XsltMaster</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/par7133/XsltMaster" style="color:#000000;"><span style="color:#119fe2">on</span> github</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:code@gaox.io" style="color:#000000;"><span style="color:#119fe2">for</span> feedback</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+39-378-0812391" style="font-size:13px;background-color:#15c60b;border:2px solid #15c60b;color:#000000;height:27px;text-decoration:none;">&nbsp;&nbsp;get support&nbsp;&nbsp;</a>
     </div>
     <br>
   </div>
@@ -143,7 +143,7 @@ function loadXML(divName, resName) {
   
 <div id="footerCont">&nbsp;</div>
 <div id="footer">
-       <span style="background:#FFFFFF; opacity:0.7;">&nbsp;&nbsp; <a href="https://5mode.com/dd.html" class="aaa">Disclaimers</a>. A <a href="http://5mode.com" class="aaa">5 Mode</a> project and <a href="http://demo.5mode.com" class="aaa">WYSIWYG</a> system. Some rights reserved.</span>
+       <span style="background:#FFFFFF; opacity:0.7;">&nbsp;&nbsp; <a href="https://numode.com/dd.html" class="aaa">Disclaimers</a>. A <a href="http://numode.eu" class="aaa">NuMode</a> project and <a href="http://demo.numode.eu" class="aaa">WYSIWYG</a> system. Some rights reserved.</span>
 </div>  
 
 <script>
