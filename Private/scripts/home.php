@@ -143,7 +143,7 @@ function loadXML(divName, resName) {
   
 <div id="footerCont">&nbsp;</div>
 <div id="footer">
-       <span style="background:#FFFFFF; opacity:0.7;">&nbsp;&nbsp; <a href="https://numode.com/dd.html" class="aaa">Disclaimers</a>. A <a href="http://numode.eu" class="aaa">NuMode</a> project and <a href="http://demo.numode.eu" class="aaa">WYSIWYG</a> system. Some rights reserved.</span>
+       <span style="background:#FFFFFF; opacity:0.7;">&nbsp;&nbsp; <a href="https://numode.eu/dd.html" class="aaa">Disclaimers</a>. A <a href="http://numode.eu" class="aaa">NuMode</a> project and <a href="http://demo.numode.eu" class="aaa">WYSIWYG</a> system. Some rights reserved.</span>
 </div>  
 
 <script>
